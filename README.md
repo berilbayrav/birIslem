@@ -1,0 +1,2 @@
+# birIslem
+ Yazılım Yapımı Ödevi
