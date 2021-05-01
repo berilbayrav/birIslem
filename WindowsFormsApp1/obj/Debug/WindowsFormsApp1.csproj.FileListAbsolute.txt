@@ -1,0 +1,30 @@
+C:\Users\ulker\Desktop\Bir_islem\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ulker\Desktop\Bir_islem\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ulker\Desktop\Bir_islem\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ulker\Desktop\Bir_islem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ulker\Desktop\Bir_islem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ulker\Desktop\Bir_islem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ulker\Desktop\Bir_islem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ulker\Desktop\Bir_islem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ulker\Desktop\Bir_islem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ulker\Desktop\Bir_islem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\bbayr\OneDrive\Masaüstü\Bir_islem\İslem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\bbayr\OneDrive\Masaüstü\Bir_islem\İslem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\bbayr\OneDrive\Masaüstü\Bir_islem\İslem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\bbayr\OneDrive\Masaüstü\Bir_islem\İslem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\bbayr\OneDrive\Masaüstü\Bir_islem\İslem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\bbayr\OneDrive\Masaüstü\Bir_islem\İslem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\bbayr\OneDrive\Masaüstü\Bir_islem\İslem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\bbayr\OneDrive\Masaüstü\Bir_islem\İslem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\bbayr\OneDrive\Masaüstü\Bir_islem\İslem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\bbayr\OneDrive\Masaüstü\Bir_islem\İslem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\bbayr\OneDrive\Masaüstü\STRAWBERRYL\2.sınıf 2.dönem ödevleri\yazılım yapımı vize  ve final ödevleri\Bir_islem\İslem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\bbayr\OneDrive\Masaüstü\STRAWBERRYL\2.sınıf 2.dönem ödevleri\yazılım yapımı vize  ve final ödevleri\Bir_islem\İslem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\bbayr\OneDrive\Masaüstü\STRAWBERRYL\2.sınıf 2.dönem ödevleri\yazılım yapımı vize  ve final ödevleri\Bir_islem\İslem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\bbayr\OneDrive\Masaüstü\STRAWBERRYL\2.sınıf 2.dönem ödevleri\yazılım yapımı vize  ve final ödevleri\Bir_islem\İslem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\bbayr\OneDrive\Masaüstü\STRAWBERRYL\2.sınıf 2.dönem ödevleri\yazılım yapımı vize  ve final ödevleri\Bir_islem\İslem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\bbayr\OneDrive\Masaüstü\STRAWBERRYL\2.sınıf 2.dönem ödevleri\yazılım yapımı vize  ve final ödevleri\Bir_islem\İslem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\bbayr\OneDrive\Masaüstü\STRAWBERRYL\2.sınıf 2.dönem ödevleri\yazılım yapımı vize  ve final ödevleri\Bir_islem\İslem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\bbayr\OneDrive\Masaüstü\STRAWBERRYL\2.sınıf 2.dönem ödevleri\yazılım yapımı vize  ve final ödevleri\Bir_islem\İslem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\bbayr\OneDrive\Masaüstü\STRAWBERRYL\2.sınıf 2.dönem ödevleri\yazılım yapımı vize  ve final ödevleri\Bir_islem\İslem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\bbayr\OneDrive\Masaüstü\STRAWBERRYL\2.sınıf 2.dönem ödevleri\yazılım yapımı vize  ve final ödevleri\Bir_islem\İslem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
